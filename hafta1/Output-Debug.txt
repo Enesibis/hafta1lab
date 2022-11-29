@@ -1,0 +1,12 @@
+﻿'hafta1.exe' (Win32): Loaded 'C:\Users\enes\source\repos\hafta1\x64\Debug\hafta1.exe'. Symbols loaded.
+'hafta1.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'hafta1.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'hafta1.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'hafta1.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'hafta1.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x47b8 has exited with code 0 (0x0).
+'hafta1.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'hafta1.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x50d8 has exited with code 0 (0x0).
+The thread 0x4474 has exited with code 0 (0x0).
+The program '[17984] hafta1.exe' has exited with code 0 (0x0).

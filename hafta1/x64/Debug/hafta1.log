@@ -1,0 +1,3 @@
+﻿  hafta1.c
+C:\Users\enes\source\repos\hafta1\hafta1.c(118,60): warning C4101: 'toplam': unreferenced local variable
+  hafta1.vcxproj -> C:\Users\enes\source\repos\hafta1\x64\Debug\hafta1.exe
